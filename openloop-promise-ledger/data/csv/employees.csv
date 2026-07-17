@@ -1,0 +1,41 @@
+employee_id,employee_name,email,department_id,job_title,management_level,region,employment_status,manager_employee_id
+E001,Aarav Shah,aarav.shah@northstar.example,D001,Product Manager,Individual Contributor,North America,Active,
+E002,Maya Chen,maya.chen@northstar.example,D002,Senior Software Engineer,Individual Contributor,North America,Active,E010
+E003,Ethan Williams,ethan.williams@northstar.example,D003,Sales Operations Analyst,Manager,EMEA,Active,E019
+E004,Sophia Patel,sophia.patel@northstar.example,D004,Customer Operations Lead,Individual Contributor,APAC,Active,
+E005,Noah Brown,noah.brown@northstar.example,D005,Compliance Analyst,Senior Manager,North America,Active,E013
+E006,Olivia Garcia,olivia.garcia@northstar.example,D006,Financial Analyst,Individual Contributor,North America,Active,E014
+E007,Liam Kim,liam.kim@northstar.example,D007,Talent Operations Analyst,Individual Contributor,EMEA,Active,E015
+E008,Ava Davis,ava.davis@northstar.example,D008,Program Manager,Manager,APAC,Active,
+E009,Lucas Singh,lucas.singh@northstar.example,D001,UX Researcher,Individual Contributor,North America,Active,E001
+E010,Isabella Martinez,isabella.martinez@northstar.example,D002,Solution Architect,Senior Manager,North America,Active,
+E011,Arjun Wilson,arjun.wilson@northstar.example,D003,Account Executive,Individual Contributor,EMEA,Active,E019
+E012,Nina Nguyen,nina.nguyen@northstar.example,D004,Implementation Manager,Individual Contributor,APAC,Active,E004
+E013,Daniel Thomas,daniel.thomas@northstar.example,D005,Privacy Counsel,Manager,North America,Active,
+E014,Grace Anderson,grace.anderson@northstar.example,D006,Controller,Individual Contributor,North America,Active,
+E015,Henry Taylor,henry.taylor@northstar.example,D007,Learning Program Manager,Senior Manager,EMEA,Active,
+E016,Zoe Moore,zoe.moore@northstar.example,D008,Operations Manager,Individual Contributor,APAC,Active,E008
+E017,Owen Jackson,owen.jackson@northstar.example,D001,Senior Product Manager,Individual Contributor,North America,Active,E001
+E018,Layla Lee,layla.lee@northstar.example,D002,Engineering Manager,Manager,North America,Active,E010
+E019,Mateo Harris,mateo.harris@northstar.example,D003,Business Development Manager,Individual Contributor,EMEA,Active,
+E020,Chloe Clark,chloe.clark@northstar.example,D004,Renewals Manager,Senior Manager,APAC,Active,E004
+E021,Ryan Lewis,ryan.lewis@northstar.example,D005,Corporate Counsel,Individual Contributor,North America,Active,E013
+E022,Emma Young,emma.young@northstar.example,D006,Finance Manager,Individual Contributor,North America,Active,E014
+E023,Leo Walker,leo.walker@northstar.example,D007,Recruiter,Manager,EMEA,Active,E015
+E024,Amelia Hall,amelia.hall@northstar.example,D008,Process Excellence Lead,Individual Contributor,APAC,Active,E008
+E025,Jay Allen,jay.allen@northstar.example,D001,Product Operations Analyst,Senior Manager,North America,Active,E001
+E026,Priya King,priya.king@northstar.example,D002,Software Engineer,Individual Contributor,North America,Active,E010
+E027,Carlos Wright,carlos.wright@northstar.example,D003,Sales Manager,Individual Contributor,EMEA,Active,E019
+E028,Elena Scott,elena.scott@northstar.example,D004,Support Analyst,Manager,APAC,Active,E004
+E029,Sam Green,sam.green@northstar.example,D005,Contract Manager,Individual Contributor,North America,Active,E013
+E030,Riya Baker,riya.baker@northstar.example,D006,Procurement Analyst,Senior Manager,North America,Active,E014
+E031,Ben Adams,ben.adams@northstar.example,D007,HR Business Partner,Individual Contributor,EMEA,Active,E015
+E032,Natalie Nelson,natalie.nelson@northstar.example,D008,Business Analyst,Individual Contributor,APAC,Active,E008
+E033,Victor Carter,victor.carter@northstar.example,D001,Product Analyst,Manager,North America,Active,E001
+E034,Hannah Mitchell,hannah.mitchell@northstar.example,D002,QA Engineer,Individual Contributor,North America,Active,E010
+E035,Adrian Perez,adrian.perez@northstar.example,D003,Solutions Consultant,Senior Manager,EMEA,Active,E019
+E036,Meera Roberts,meera.roberts@northstar.example,D004,Customer Success Manager,Individual Contributor,APAC,Active,E004
+E037,Kevin Turner,kevin.turner@northstar.example,D005,Legal Operations Analyst,Individual Contributor,North America,Active,E013
+E038,Julia Phillips,julia.phillips@northstar.example,D006,FP&A Analyst,Manager,North America,Active,E014
+E039,Marcus Campbell,marcus.campbell@northstar.example,D007,People Analytics Manager,Individual Contributor,EMEA,Active,E015
+E040,Sara Parker,sara.parker@northstar.example,D008,Vendor Manager,Senior Manager,APAC,Active,E008

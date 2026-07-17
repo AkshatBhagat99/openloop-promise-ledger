@@ -1,0 +1,8 @@
+source_id,source_name,source_type,integration_mode,retention_days
+S001,Slack,Chat,OAuth + Events API,365
+S002,Microsoft Teams,Chat,Microsoft Graph,365
+S003,Gmail,Email,Gmail API,730
+S004,Zoom,Meeting Transcript,Zoom Webhooks,365
+S005,Jira,Work Management,REST API,1095
+S006,Salesforce,CRM Notes,Bulk + Streaming API,1095
+S007,ServiceNow,Support Ticket,REST + Webhooks,1095

@@ -1,0 +1,13 @@
+metric,value,unit
+Total promises,120.0,count
+Promise fulfillment rate,0.43333333333333335,percent
+Broken/overdue promise rate,0.19166666666666668,percent
+Average resolution time,128.73076923076923,hours
+Ownership reassignment rate,0.1,percent
+Escalation rate,0.041666666666666664,percent
+SLA compliance among fulfilled,0.19230769230769232,percent
+Dormant conversation rate,0.18333333333333332,percent
+Notification failure rate,0.0875,percent
+Human confirmation rate,0.775,percent
+Average AI confidence,0.8688666666666668,score
+Average promise risk,0.4012833333333333,score
