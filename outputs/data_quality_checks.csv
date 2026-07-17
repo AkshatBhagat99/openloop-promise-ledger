@@ -1,0 +1,17 @@
+check,passed,detail
+departments.department_id uniqueness,True,duplicate rows=0
+employees.employee_id uniqueness,True,duplicate rows=0
+sources.source_id uniqueness,True,duplicate rows=0
+conversations.conversation_id uniqueness,True,duplicate rows=0
+messages.message_id uniqueness,True,duplicate rows=0
+promises.promise_id uniqueness,True,duplicate rows=0
+promise_history.history_id uniqueness,True,duplicate rows=0
+notifications.notification_id uniqueness,True,duplicate rows=0
+employees.department_id referential integrity,True,invalid references=0
+conversations.source_id referential integrity,True,invalid references=0
+messages.conversation_id referential integrity,True,invalid references=0
+promises.message_id referential integrity,True,invalid references=0
+promises.owner_employee_id referential integrity,True,invalid references=0
+promise_history.promise_id referential integrity,True,invalid references=0
+notifications.promise_id referential integrity,True,invalid references=0
+Promise due date follows creation,True,invalid rows=0

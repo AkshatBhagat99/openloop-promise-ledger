@@ -1,0 +1,305 @@
+history_id,promise_id,event_ts,from_status,to_status,changed_by_employee_id,change_reason
+H000001,P00001,2026-01-05 12:00:00,,Open,E004,AI-created commitment after policy and confidence checks
+H000002,P00001,2026-01-05 20:00:00,Open,In Progress,E004,Owner update or workflow transition
+H000003,P00001,2026-01-09 12:00:00,In Progress,Overdue,E004,System SLA evaluation or owner completion
+H000004,P00002,2026-01-27 23:00:00,,Open,E009,AI-created commitment after policy and confidence checks
+H000005,P00002,2026-01-28 16:00:00,Open,Cancelled,E009,Owner update or workflow transition
+H000006,P00003,2026-02-19 02:00:00,,Open,E014,AI-created commitment after policy and confidence checks
+H000007,P00003,2026-02-19 06:00:00,Open,Reassigned,E014,Owner update or workflow transition
+H000008,P00004,2026-03-13 14:00:00,,Open,E019,AI-created commitment after policy and confidence checks
+H000009,P00004,2026-03-14 06:00:00,Open,Reassigned,E019,Owner update or workflow transition
+H000010,P00005,2026-04-04 22:00:00,,Open,E024,AI-created commitment after policy and confidence checks
+H000011,P00005,2026-04-05 12:00:00,Open,In Progress,E024,Owner update or workflow transition
+H000012,P00005,2026-04-10 19:00:00,In Progress,Overdue,E024,System SLA evaluation or owner completion
+H000013,P00006,2026-04-25 20:00:00,,Open,E029,AI-created commitment after policy and confidence checks
+H000014,P00006,2026-04-26 22:00:00,Open,Cancelled,E029,Owner update or workflow transition
+H000015,P00007,2026-01-18 05:00:00,,Open,E034,AI-created commitment after policy and confidence checks
+H000016,P00007,2026-01-18 15:00:00,Open,In Progress,E034,Owner update or workflow transition
+H000017,P00007,2026-01-24 21:00:00,In Progress,Fulfilled,E034,System SLA evaluation or owner completion
+H000018,P00008,2026-02-09 10:00:00,,Open,E039,AI-created commitment after policy and confidence checks
+H000019,P00008,2026-02-10 03:00:00,Open,In Progress,E039,Owner update or workflow transition
+H000020,P00008,2026-02-19 13:00:00,In Progress,Fulfilled,E039,System SLA evaluation or owner completion
+H000021,P00009,2026-03-03 15:00:00,,Open,E004,AI-created commitment after policy and confidence checks
+H000022,P00009,2026-03-04 13:00:00,Open,In Progress,E004,Owner update or workflow transition
+H000023,P00009,2026-03-07 11:00:00,In Progress,Overdue,E004,System SLA evaluation or owner completion
+H000024,P00010,2026-03-24 13:00:00,,Open,E009,AI-created commitment after policy and confidence checks
+H000025,P00010,2026-03-25 16:00:00,Open,In Progress,E009,Owner update or workflow transition
+H000026,P00010,2026-03-27 19:00:00,In Progress,Fulfilled,E009,System SLA evaluation or owner completion
+H000027,P00011,2026-04-15 21:00:00,,Open,E014,AI-created commitment after policy and confidence checks
+H000028,P00011,2026-04-16 23:00:00,Open,In Progress,E014,Owner update or workflow transition
+H000029,P00011,2026-04-20 10:00:00,In Progress,Fulfilled,E014,System SLA evaluation or owner completion
+H000030,P00012,2026-01-08 02:00:00,,Open,E019,AI-created commitment after policy and confidence checks
+H000031,P00012,2026-01-09 06:00:00,Open,In Progress,E019,Owner update or workflow transition
+H000032,P00012,2026-01-16 01:00:00,In Progress,Fulfilled,E019,System SLA evaluation or owner completion
+H000033,P00013,2026-01-30 16:00:00,,Open,E024,AI-created commitment after policy and confidence checks
+H000034,P00013,2026-01-31 09:00:00,Open,In Progress,E024,Owner update or workflow transition
+H000035,P00013,2026-02-04 15:00:00,In Progress,Fulfilled,E024,System SLA evaluation or owner completion
+H000036,P00014,2026-02-21 19:00:00,,Open,E029,AI-created commitment after policy and confidence checks
+H000037,P00014,2026-02-22 05:00:00,Open,In Progress,E029,Owner update or workflow transition
+H000038,P00014,2026-03-02 14:00:00,In Progress,Fulfilled,E029,System SLA evaluation or owner completion
+H000039,P00015,2026-03-14 21:00:00,,Open,E034,AI-created commitment after policy and confidence checks
+H000040,P00015,2026-03-15 17:00:00,Open,In Progress,E034,Owner update or workflow transition
+H000041,P00015,2026-03-18 16:00:00,In Progress,Fulfilled,E034,System SLA evaluation or owner completion
+H000042,P00016,2026-04-06 01:00:00,,Open,E039,AI-created commitment after policy and confidence checks
+H000043,P00016,2026-04-06 11:00:00,Open,In Progress,E039,Owner update or workflow transition
+H000044,P00016,2026-04-11 16:00:00,In Progress,Fulfilled,E039,System SLA evaluation or owner completion
+H000045,P00017,2026-04-28 08:00:00,,Open,E004,AI-created commitment after policy and confidence checks
+H000046,P00017,2026-04-28 20:00:00,Open,In Progress,E004,Owner update or workflow transition
+H000047,P00017,2026-05-03 09:00:00,In Progress,Fulfilled,E004,System SLA evaluation or owner completion
+H000048,P00018,2026-01-20 13:00:00,,Open,E009,AI-created commitment after policy and confidence checks
+H000049,P00018,2026-01-21 17:00:00,Open,In Progress,E009,Owner update or workflow transition
+H000050,P00018,2026-01-28 21:00:00,In Progress,Overdue,E009,System SLA evaluation or owner completion
+H000051,P00019,2026-02-10 13:00:00,,Open,E014,AI-created commitment after policy and confidence checks
+H000052,P00019,2026-02-11 18:00:00,Open,Reassigned,E014,Owner update or workflow transition
+H000053,P00020,2026-03-04 21:00:00,,Open,E019,AI-created commitment after policy and confidence checks
+H000054,P00020,2026-03-05 06:00:00,Open,In Progress,E019,Owner update or workflow transition
+H000055,P00020,2026-03-09 22:00:00,In Progress,Overdue,E019,System SLA evaluation or owner completion
+H000056,P00021,2026-03-27 09:00:00,,Open,E024,AI-created commitment after policy and confidence checks
+H000057,P00021,2026-03-28 09:00:00,Open,In Progress,E024,Owner update or workflow transition
+H000058,P00021,2026-04-01 14:00:00,In Progress,Fulfilled,E024,System SLA evaluation or owner completion
+H000059,P00022,2026-04-18 12:00:00,,Open,E029,AI-created commitment after policy and confidence checks
+H000060,P00022,2026-04-19 09:00:00,Open,In Progress,E029,Owner update or workflow transition
+H000061,P00022,2026-04-21 23:00:00,In Progress,Fulfilled,E029,System SLA evaluation or owner completion
+H000062,P00023,2026-01-10 21:00:00,,Open,E034,AI-created commitment after policy and confidence checks
+H000063,P00023,2026-01-11 14:00:00,Open,In Progress,E034,Owner update or workflow transition
+H000064,P00023,2026-01-15 04:00:00,In Progress,Overdue,E034,System SLA evaluation or owner completion
+H000065,P00024,2026-01-31 19:00:00,,Open,E039,AI-created commitment after policy and confidence checks
+H000066,P00024,2026-02-01 22:00:00,Open,In Progress,E039,Owner update or workflow transition
+H000067,P00024,2026-02-03 10:00:00,In Progress,Fulfilled,E039,System SLA evaluation or owner completion
+H000068,P00025,2026-02-23 01:00:00,,Open,E004,AI-created commitment after policy and confidence checks
+H000069,P00025,2026-02-23 13:00:00,Open,In Progress,E004,Owner update or workflow transition
+H000070,P00025,2026-02-26 03:00:00,In Progress,Overdue,E004,System SLA evaluation or owner completion
+H000071,P00026,2026-03-17 07:00:00,,Open,E009,AI-created commitment after policy and confidence checks
+H000072,P00026,2026-03-18 02:00:00,Open,In Progress,E009,Owner update or workflow transition
+H000073,P00026,2026-03-27 08:00:00,In Progress,Fulfilled,E009,System SLA evaluation or owner completion
+H000074,P00027,2026-04-08 17:00:00,,Open,E014,AI-created commitment after policy and confidence checks
+H000075,P00027,2026-04-09 12:00:00,Open,In Progress,E014,Owner update or workflow transition
+H000076,P00027,2026-04-11 23:00:00,In Progress,Fulfilled,E014,System SLA evaluation or owner completion
+H000077,P00028,2026-04-29 12:00:00,,Open,E019,AI-created commitment after policy and confidence checks
+H000078,P00028,2026-04-30 04:00:00,Open,In Progress,E019,Owner update or workflow transition
+H000079,P00028,2026-05-01 14:00:00,In Progress,Fulfilled,E019,System SLA evaluation or owner completion
+H000080,P00029,2026-01-21 18:00:00,,Open,E024,AI-created commitment after policy and confidence checks
+H000081,P00029,2026-01-22 02:00:00,Open,Reassigned,E024,Owner update or workflow transition
+H000082,P00030,2026-02-13 09:00:00,,Open,E029,AI-created commitment after policy and confidence checks
+H000083,P00030,2026-02-14 14:00:00,Open,Reassigned,E029,Owner update or workflow transition
+H000084,P00031,2026-03-07 13:00:00,,Open,E034,AI-created commitment after policy and confidence checks
+H000085,P00031,2026-03-07 22:00:00,Open,In Progress,E034,Owner update or workflow transition
+H000086,P00031,2026-03-11 07:00:00,In Progress,Fulfilled,E034,System SLA evaluation or owner completion
+H000087,P00032,2026-03-30 01:00:00,,Open,E039,AI-created commitment after policy and confidence checks
+H000088,P00032,2026-03-31 05:00:00,Open,In Progress,E039,Owner update or workflow transition
+H000089,P00032,2026-04-01 17:00:00,In Progress,Overdue,E039,System SLA evaluation or owner completion
+H000090,P00033,2026-04-19 17:00:00,,Open,E004,AI-created commitment after policy and confidence checks
+H000091,P00033,2026-04-20 00:00:00,Open,In Progress,E004,Owner update or workflow transition
+H000092,P00033,2026-04-27 11:00:00,In Progress,Overdue,E004,System SLA evaluation or owner completion
+H000093,P00034,2026-01-12 00:00:00,,Open,E009,AI-created commitment after policy and confidence checks
+H000094,P00034,2026-01-12 04:00:00,Open,In Progress,E009,Owner update or workflow transition
+H000095,P00034,2026-01-14 19:00:00,In Progress,Escalated,E009,System SLA evaluation or owner completion
+H000096,P00035,2026-02-03 06:00:00,,Open,E014,AI-created commitment after policy and confidence checks
+H000097,P00035,2026-02-04 00:00:00,Open,In Progress,E014,Owner update or workflow transition
+H000098,P00035,2026-02-08 23:00:00,In Progress,Fulfilled,E014,System SLA evaluation or owner completion
+H000099,P00036,2026-02-25 19:00:00,,Open,E019,AI-created commitment after policy and confidence checks
+H000100,P00036,2026-02-27 01:00:00,Open,In Progress,E019,Owner update or workflow transition
+H000101,P00036,2026-02-27 20:00:00,In Progress,Escalated,E019,System SLA evaluation or owner completion
+H000102,P00037,2026-03-18 13:00:00,,Open,E024,AI-created commitment after policy and confidence checks
+H000103,P00037,2026-03-19 09:00:00,Open,In Progress,E024,Owner update or workflow transition
+H000104,P00037,2026-03-21 21:00:00,In Progress,Overdue,E024,System SLA evaluation or owner completion
+H000105,P00038,2026-04-09 22:00:00,,Open,E029,AI-created commitment after policy and confidence checks
+H000106,P00038,2026-04-10 23:00:00,Open,In Progress,E029,Owner update or workflow transition
+H000107,P00038,2026-04-15 10:00:00,In Progress,Fulfilled,E029,System SLA evaluation or owner completion
+H000108,P00039,2026-05-02 03:00:00,,Open,E034,AI-created commitment after policy and confidence checks
+H000109,P00039,2026-05-03 09:00:00,Open,Reassigned,E034,Owner update or workflow transition
+H000110,P00040,2026-01-24 11:00:00,,Open,E039,AI-created commitment after policy and confidence checks
+H000111,P00040,2026-01-25 06:00:00,Open,In Progress,E039,Owner update or workflow transition
+H000112,P00040,2026-02-03 20:00:00,In Progress,Overdue,E039,System SLA evaluation or owner completion
+H000113,P00041,2026-02-15 23:00:00,,Open,E004,AI-created commitment after policy and confidence checks
+H000114,P00041,2026-02-16 11:00:00,Open,Reassigned,E004,Owner update or workflow transition
+H000115,P00042,2026-03-08 19:00:00,,Open,E009,AI-created commitment after policy and confidence checks
+H000116,P00042,2026-03-09 00:00:00,Open,In Progress,E009,Owner update or workflow transition
+H000117,P00042,2026-03-20 19:00:00,In Progress,Fulfilled,E009,System SLA evaluation or owner completion
+H000118,P00043,2026-03-30 23:00:00,,Open,E014,AI-created commitment after policy and confidence checks
+H000119,P00043,2026-04-01 02:00:00,Open,In Progress,E014,Owner update or workflow transition
+H000120,P00043,2026-04-04 11:00:00,In Progress,Escalated,E014,System SLA evaluation or owner completion
+H000121,P00044,2026-04-22 10:00:00,,Open,E019,AI-created commitment after policy and confidence checks
+H000122,P00044,2026-04-22 21:00:00,Open,In Progress,E019,Owner update or workflow transition
+H000123,P00044,2026-05-02 15:00:00,In Progress,Fulfilled,E019,System SLA evaluation or owner completion
+H000124,P00045,2026-01-14 18:00:00,,Open,E024,AI-created commitment after policy and confidence checks
+H000125,P00045,2026-01-15 11:00:00,Open,In Progress,E024,Owner update or workflow transition
+H000126,P00045,2026-01-19 06:00:00,In Progress,Fulfilled,E024,System SLA evaluation or owner completion
+H000127,P00046,2026-02-04 10:00:00,,Open,E029,AI-created commitment after policy and confidence checks
+H000128,P00046,2026-02-05 05:00:00,Open,In Progress,E029,Owner update or workflow transition
+H000129,P00046,2026-02-13 03:00:00,In Progress,Fulfilled,E029,System SLA evaluation or owner completion
+H000130,P00047,2026-02-27 01:00:00,,Open,E034,AI-created commitment after policy and confidence checks
+H000131,P00047,2026-02-27 08:00:00,Open,In Progress,E034,Owner update or workflow transition
+H000132,P00047,2026-03-07 06:00:00,In Progress,Overdue,E034,System SLA evaluation or owner completion
+H000133,P00048,2026-03-21 06:00:00,,Open,E039,AI-created commitment after policy and confidence checks
+H000134,P00048,2026-03-21 11:00:00,Open,In Progress,E039,Owner update or workflow transition
+H000135,P00048,2026-03-24 07:00:00,In Progress,Fulfilled,E039,System SLA evaluation or owner completion
+H000136,P00049,2026-04-12 15:00:00,,Open,E004,AI-created commitment after policy and confidence checks
+H000137,P00049,2026-04-13 01:00:00,Open,In Progress,E004,Owner update or workflow transition
+H000138,P00049,2026-04-17 05:00:00,In Progress,Fulfilled,E004,System SLA evaluation or owner completion
+H000139,P00050,2026-05-04 23:00:00,,Open,E009,AI-created commitment after policy and confidence checks
+H000140,P00050,2026-05-06 04:00:00,Open,In Progress,E009,Owner update or workflow transition
+H000141,P00050,2026-05-09 03:00:00,In Progress,Fulfilled,E009,System SLA evaluation or owner completion
+H000142,P00051,2026-01-25 16:00:00,,Open,E014,AI-created commitment after policy and confidence checks
+H000143,P00051,2026-01-26 09:00:00,Open,In Progress,E014,Owner update or workflow transition
+H000144,P00051,2026-01-27 16:00:00,In Progress,Overdue,E014,System SLA evaluation or owner completion
+H000145,P00052,2026-02-17 00:00:00,,Open,E019,AI-created commitment after policy and confidence checks
+H000146,P00052,2026-02-17 03:00:00,Open,In Progress,E019,Owner update or workflow transition
+H000147,P00052,2026-02-28 04:00:00,In Progress,Overdue,E019,System SLA evaluation or owner completion
+H000148,P00053,2026-03-11 09:00:00,,Open,E024,AI-created commitment after policy and confidence checks
+H000149,P00053,2026-03-11 13:00:00,Open,In Progress,E024,Owner update or workflow transition
+H000150,P00053,2026-03-15 12:00:00,In Progress,Overdue,E024,System SLA evaluation or owner completion
+H000151,P00054,2026-04-02 17:00:00,,Open,E029,AI-created commitment after policy and confidence checks
+H000152,P00054,2026-04-03 12:00:00,Open,Reassigned,E029,Owner update or workflow transition
+H000153,P00055,2026-04-23 14:00:00,,Open,E034,AI-created commitment after policy and confidence checks
+H000154,P00055,2026-04-24 04:00:00,Open,In Progress,E034,Owner update or workflow transition
+H000155,P00055,2026-04-25 09:00:00,In Progress,Fulfilled,E034,System SLA evaluation or owner completion
+H000156,P00056,2026-01-16 00:00:00,,Open,E039,AI-created commitment after policy and confidence checks
+H000157,P00056,2026-01-16 10:00:00,Open,Reassigned,E039,Owner update or workflow transition
+H000158,P00057,2026-02-07 06:00:00,,Open,E004,AI-created commitment after policy and confidence checks
+H000159,P00057,2026-02-07 21:00:00,Open,In Progress,E004,Owner update or workflow transition
+H000160,P00057,2026-02-09 13:00:00,In Progress,Overdue,E004,System SLA evaluation or owner completion
+H000161,P00058,2026-03-01 17:00:00,,Open,E009,AI-created commitment after policy and confidence checks
+H000162,P00058,2026-03-02 07:00:00,Open,In Progress,E009,Owner update or workflow transition
+H000163,P00058,2026-03-03 23:00:00,In Progress,Fulfilled,E009,System SLA evaluation or owner completion
+H000164,P00059,2026-03-23 20:00:00,,Open,E014,AI-created commitment after policy and confidence checks
+H000165,P00059,2026-03-24 06:00:00,Open,In Progress,E014,Owner update or workflow transition
+H000166,P00059,2026-03-26 03:00:00,In Progress,Fulfilled,E014,System SLA evaluation or owner completion
+H000167,P00060,2026-04-13 13:00:00,,Open,E019,AI-created commitment after policy and confidence checks
+H000168,P00060,2026-04-13 16:00:00,Open,In Progress,E019,Owner update or workflow transition
+H000169,P00060,2026-04-19 15:00:00,In Progress,Fulfilled,E019,System SLA evaluation or owner completion
+H000170,P00061,2026-01-05 22:00:00,,Open,E024,AI-created commitment after policy and confidence checks
+H000171,P00061,2026-01-06 11:00:00,Open,In Progress,E024,Owner update or workflow transition
+H000172,P00061,2026-01-16 06:00:00,In Progress,Fulfilled,E024,System SLA evaluation or owner completion
+H000173,P00062,2026-01-28 09:00:00,,Open,E029,AI-created commitment after policy and confidence checks
+H000174,P00062,2026-01-28 15:00:00,Open,In Progress,E029,Owner update or workflow transition
+H000175,P00062,2026-02-04 08:00:00,In Progress,Overdue,E029,System SLA evaluation or owner completion
+H000176,P00063,2026-02-19 15:00:00,,Open,E034,AI-created commitment after policy and confidence checks
+H000177,P00063,2026-02-20 14:00:00,Open,In Progress,E034,Owner update or workflow transition
+H000178,P00063,2026-02-22 14:00:00,In Progress,Overdue,E034,System SLA evaluation or owner completion
+H000179,P00064,2026-03-12 17:00:00,,Open,E039,AI-created commitment after policy and confidence checks
+H000180,P00064,2026-03-13 21:00:00,Open,Cancelled,E039,Owner update or workflow transition
+H000181,P00065,2026-04-03 22:00:00,,Open,E004,AI-created commitment after policy and confidence checks
+H000182,P00065,2026-04-04 05:00:00,Open,In Progress,E004,Owner update or workflow transition
+H000183,P00065,2026-04-08 04:00:00,In Progress,Fulfilled,E004,System SLA evaluation or owner completion
+H000184,P00066,2026-04-26 07:00:00,,Open,E009,AI-created commitment after policy and confidence checks
+H000185,P00066,2026-04-26 14:00:00,Open,In Progress,E009,Owner update or workflow transition
+H000186,P00066,2026-04-27 11:00:00,In Progress,Fulfilled,E009,System SLA evaluation or owner completion
+H000187,P00067,2026-01-18 16:00:00,,Open,E014,AI-created commitment after policy and confidence checks
+H000188,P00067,2026-01-18 20:00:00,Open,In Progress,E014,Owner update or workflow transition
+H000189,P00067,2026-01-20 14:00:00,In Progress,Fulfilled,E014,System SLA evaluation or owner completion
+H000190,P00068,2026-02-09 23:00:00,,Open,E019,AI-created commitment after policy and confidence checks
+H000191,P00068,2026-02-10 11:00:00,Open,In Progress,E019,Owner update or workflow transition
+H000192,P00068,2026-02-13 05:00:00,In Progress,Fulfilled,E019,System SLA evaluation or owner completion
+H000193,P00069,2026-03-02 16:00:00,,Open,E024,AI-created commitment after policy and confidence checks
+H000194,P00069,2026-03-03 21:00:00,Open,In Progress,E024,Owner update or workflow transition
+H000195,P00069,2026-03-06 15:00:00,In Progress,Fulfilled,E024,System SLA evaluation or owner completion
+H000196,P00070,2026-03-25 01:00:00,,Open,E029,AI-created commitment after policy and confidence checks
+H000197,P00070,2026-03-25 19:00:00,Open,In Progress,E029,Owner update or workflow transition
+H000198,P00070,2026-04-02 23:00:00,In Progress,Overdue,E029,System SLA evaluation or owner completion
+H000199,P00071,2026-04-16 09:00:00,,Open,E034,AI-created commitment after policy and confidence checks
+H000200,P00071,2026-04-17 14:00:00,Open,In Progress,E034,Owner update or workflow transition
+H000201,P00071,2026-04-16 22:00:00,In Progress,Fulfilled,E034,System SLA evaluation or owner completion
+H000202,P00072,2026-01-08 16:00:00,,Open,E039,AI-created commitment after policy and confidence checks
+H000203,P00072,2026-01-08 23:00:00,Open,In Progress,E039,Owner update or workflow transition
+H000204,P00072,2026-01-10 01:00:00,In Progress,Fulfilled,E039,System SLA evaluation or owner completion
+H000205,P00073,2026-01-29 16:00:00,,Open,E004,AI-created commitment after policy and confidence checks
+H000206,P00073,2026-01-30 19:00:00,Open,In Progress,E004,Owner update or workflow transition
+H000207,P00073,2026-02-02 21:00:00,In Progress,Fulfilled,E004,System SLA evaluation or owner completion
+H000208,P00074,2026-02-20 19:00:00,,Open,E009,AI-created commitment after policy and confidence checks
+H000209,P00074,2026-02-21 20:00:00,Open,In Progress,E009,Owner update or workflow transition
+H000210,P00074,2026-02-25 04:00:00,In Progress,Fulfilled,E009,System SLA evaluation or owner completion
+H000211,P00075,2026-03-15 08:00:00,,Open,E014,AI-created commitment after policy and confidence checks
+H000212,P00075,2026-03-16 02:00:00,Open,In Progress,E014,Owner update or workflow transition
+H000213,P00075,2026-03-20 14:00:00,In Progress,Overdue,E014,System SLA evaluation or owner completion
+H000214,P00076,2026-04-06 14:00:00,,Open,E019,AI-created commitment after policy and confidence checks
+H000215,P00076,2026-04-07 12:00:00,Open,Reassigned,E019,Owner update or workflow transition
+H000216,P00077,2026-04-28 18:00:00,,Open,E024,AI-created commitment after policy and confidence checks
+H000217,P00077,2026-04-28 21:00:00,Open,Reassigned,E024,Owner update or workflow transition
+H000218,P00078,2026-01-19 14:00:00,,Open,E029,AI-created commitment after policy and confidence checks
+H000219,P00078,2026-01-19 19:00:00,Open,In Progress,E029,Owner update or workflow transition
+H000220,P00078,2026-01-20 17:00:00,In Progress,Overdue,E029,System SLA evaluation or owner completion
+H000221,P00079,2026-02-11 01:00:00,,Open,E034,AI-created commitment after policy and confidence checks
+H000222,P00079,2026-02-11 12:00:00,Open,Reassigned,E034,Owner update or workflow transition
+H000223,P00080,2026-03-05 06:00:00,,Open,E039,AI-created commitment after policy and confidence checks
+H000224,P00080,2026-03-05 15:00:00,Open,In Progress,E039,Owner update or workflow transition
+H000225,P00080,2026-03-12 17:00:00,In Progress,Escalated,E039,System SLA evaluation or owner completion
+H000226,P00081,2026-03-27 18:00:00,,Open,E004,AI-created commitment after policy and confidence checks
+H000227,P00081,2026-03-28 14:00:00,Open,In Progress,E004,Owner update or workflow transition
+H000228,P00081,2026-03-31 01:00:00,In Progress,Fulfilled,E004,System SLA evaluation or owner completion
+H000229,P00082,2026-04-17 13:00:00,,Open,E009,AI-created commitment after policy and confidence checks
+H000230,P00082,2026-04-18 15:00:00,Open,In Progress,E009,Owner update or workflow transition
+H000231,P00082,2026-04-25 10:00:00,In Progress,Fulfilled,E009,System SLA evaluation or owner completion
+H000232,P00083,2026-01-09 20:00:00,,Open,E014,AI-created commitment after policy and confidence checks
+H000233,P00083,2026-01-10 18:00:00,Open,In Progress,E014,Owner update or workflow transition
+H000234,P00083,2026-01-13 22:00:00,In Progress,Fulfilled,E014,System SLA evaluation or owner completion
+H000235,P00084,2026-02-01 10:00:00,,Open,E019,AI-created commitment after policy and confidence checks
+H000236,P00084,2026-02-02 05:00:00,Open,Cancelled,E019,Owner update or workflow transition
+H000237,P00085,2026-02-23 15:00:00,,Open,E024,AI-created commitment after policy and confidence checks
+H000238,P00085,2026-02-24 07:00:00,Open,In Progress,E024,Owner update or workflow transition
+H000239,P00085,2026-03-06 13:00:00,In Progress,Fulfilled,E024,System SLA evaluation or owner completion
+H000240,P00086,2026-03-17 18:00:00,,Open,E029,AI-created commitment after policy and confidence checks
+H000241,P00086,2026-03-18 00:00:00,Open,In Progress,E029,Owner update or workflow transition
+H000242,P00086,2026-03-23 14:00:00,In Progress,Overdue,E029,System SLA evaluation or owner completion
+H000243,P00087,2026-04-07 18:00:00,,Open,E034,AI-created commitment after policy and confidence checks
+H000244,P00087,2026-04-08 04:00:00,Open,In Progress,E034,Owner update or workflow transition
+H000245,P00087,2026-04-09 04:00:00,In Progress,Fulfilled,E034,System SLA evaluation or owner completion
+H000246,P00088,2026-04-29 23:00:00,,Open,E039,AI-created commitment after policy and confidence checks
+H000247,P00088,2026-04-30 11:00:00,Open,In Progress,E039,Owner update or workflow transition
+H000248,P00088,2026-05-05 20:00:00,In Progress,Fulfilled,E039,System SLA evaluation or owner completion
+H000249,P00089,2026-01-22 09:00:00,,Open,E004,AI-created commitment after policy and confidence checks
+H000250,P00089,2026-01-22 15:00:00,Open,In Progress,E004,Owner update or workflow transition
+H000251,P00089,2026-01-24 14:00:00,In Progress,Overdue,E004,System SLA evaluation or owner completion
+H000252,P00090,2026-02-13 20:00:00,,Open,E009,AI-created commitment after policy and confidence checks
+H000253,P00090,2026-02-14 06:00:00,Open,In Progress,E009,Owner update or workflow transition
+H000254,P00090,2026-02-17 04:00:00,In Progress,Fulfilled,E009,System SLA evaluation or owner completion
+H000255,P00091,2026-03-06 11:00:00,,Open,E014,AI-created commitment after policy and confidence checks
+H000256,P00091,2026-03-07 03:00:00,Open,In Progress,E014,Owner update or workflow transition
+H000257,P00091,2026-03-16 18:00:00,In Progress,Fulfilled,E014,System SLA evaluation or owner completion
+H000258,P00092,2026-03-28 23:00:00,,Open,E019,AI-created commitment after policy and confidence checks
+H000259,P00092,2026-03-29 22:00:00,Open,In Progress,E019,Owner update or workflow transition
+H000260,P00092,2026-04-09 05:00:00,In Progress,Fulfilled,E019,System SLA evaluation or owner completion
+H000261,P00093,2026-04-20 05:00:00,,Open,E024,AI-created commitment after policy and confidence checks
+H000262,P00093,2026-04-21 09:00:00,Open,In Progress,E024,Owner update or workflow transition
+H000263,P00093,2026-04-26 03:00:00,In Progress,Fulfilled,E024,System SLA evaluation or owner completion
+H000264,P00094,2026-01-12 15:00:00,,Open,E029,AI-created commitment after policy and confidence checks
+H000265,P00094,2026-01-13 13:00:00,Open,In Progress,E029,Owner update or workflow transition
+H000266,P00094,2026-01-23 14:00:00,In Progress,Fulfilled,E029,System SLA evaluation or owner completion
+H000267,P00095,2026-02-03 19:00:00,,Open,E034,AI-created commitment after policy and confidence checks
+H000268,P00095,2026-02-04 12:00:00,Open,In Progress,E034,Owner update or workflow transition
+H000269,P00095,2026-02-07 01:00:00,In Progress,Escalated,E034,System SLA evaluation or owner completion
+H000270,P00096,2026-02-24 18:00:00,,Open,E039,AI-created commitment after policy and confidence checks
+H000271,P00096,2026-02-25 00:00:00,Open,In Progress,E039,Owner update or workflow transition
+H000272,P00096,2026-03-03 02:00:00,In Progress,Fulfilled,E039,System SLA evaluation or owner completion
+H000273,P00097,2026-07-01 09:00:00,,Open,E004,AI-created commitment after policy and confidence checks
+H000274,P00097,2026-07-02 14:00:00,Open,In Progress,E004,Owner update or workflow transition
+H000275,P00098,2026-07-01 10:00:00,,Open,E009,AI-created commitment after policy and confidence checks
+H000276,P00099,2026-07-02 11:00:00,,Open,E014,AI-created commitment after policy and confidence checks
+H000277,P00100,2026-07-02 12:00:00,,Open,E019,AI-created commitment after policy and confidence checks
+H000278,P00100,2026-07-03 06:00:00,Open,In Progress,E019,Owner update or workflow transition
+H000279,P00101,2026-07-03 13:00:00,,Open,E024,AI-created commitment after policy and confidence checks
+H000280,P00102,2026-07-03 14:00:00,,Open,E029,AI-created commitment after policy and confidence checks
+H000281,P00103,2026-07-04 09:00:00,,Open,E034,AI-created commitment after policy and confidence checks
+H000282,P00103,2026-07-05 07:00:00,Open,In Progress,E034,Owner update or workflow transition
+H000283,P00104,2026-07-04 10:00:00,,Open,E039,AI-created commitment after policy and confidence checks
+H000284,P00105,2026-07-05 11:00:00,,Open,E004,AI-created commitment after policy and confidence checks
+H000285,P00106,2026-07-05 12:00:00,,Open,E009,AI-created commitment after policy and confidence checks
+H000286,P00106,2026-07-06 08:00:00,Open,In Progress,E009,Owner update or workflow transition
+H000287,P00107,2026-07-06 13:00:00,,Open,E014,AI-created commitment after policy and confidence checks
+H000288,P00108,2026-07-06 14:00:00,,Open,E019,AI-created commitment after policy and confidence checks
+H000289,P00109,2026-07-07 09:00:00,,Open,E024,AI-created commitment after policy and confidence checks
+H000290,P00109,2026-07-07 12:00:00,Open,In Progress,E024,Owner update or workflow transition
+H000291,P00110,2026-07-07 10:00:00,,Open,E029,AI-created commitment after policy and confidence checks
+H000292,P00111,2026-07-08 11:00:00,,Open,E034,AI-created commitment after policy and confidence checks
+H000293,P00112,2026-07-08 12:00:00,,Open,E039,AI-created commitment after policy and confidence checks
+H000294,P00112,2026-07-09 11:00:00,Open,In Progress,E039,Owner update or workflow transition
+H000295,P00113,2026-07-09 13:00:00,,Open,E004,AI-created commitment after policy and confidence checks
+H000296,P00114,2026-07-09 14:00:00,,Open,E009,AI-created commitment after policy and confidence checks
+H000297,P00115,2026-07-10 09:00:00,,Open,E014,AI-created commitment after policy and confidence checks
+H000298,P00115,2026-07-11 04:00:00,Open,In Progress,E014,Owner update or workflow transition
+H000299,P00116,2026-07-10 10:00:00,,Open,E019,AI-created commitment after policy and confidence checks
+H000300,P00117,2026-07-11 11:00:00,,Open,E024,AI-created commitment after policy and confidence checks
+H000301,P00118,2026-07-11 12:00:00,,Open,E029,AI-created commitment after policy and confidence checks
+H000302,P00118,2026-07-12 09:00:00,Open,In Progress,E029,Owner update or workflow transition
+H000303,P00119,2026-07-12 13:00:00,,Open,E034,AI-created commitment after policy and confidence checks
+H000304,P00120,2026-07-12 14:00:00,,Open,E039,AI-created commitment after policy and confidence checks

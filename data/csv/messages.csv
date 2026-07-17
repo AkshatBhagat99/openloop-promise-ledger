@@ -1,0 +1,181 @@
+message_id,conversation_id,sender_employee_id,message_ts,message_text,message_language,has_attachment,ingestion_ts,content_hash
+M00001,C0001,E001,2026-01-05 12:00:00,I will send the revised analysis by Tuesday.,en,1,2026-01-05 12:15:00,HASH00100000
+M00002,C0002,E008,2026-01-07 17:00:00,Engineering will complete the fix in the next sprint.,en,0,2026-01-07 17:02:00,HASH00100001
+M00003,C0003,E015,2026-01-09 20:00:00,Let's revisit this after the security release.,en,0,2026-01-09 20:04:00,HASH00100002
+M00004,C0004,E022,2026-01-12 00:00:00,I will get legal approval before end of week.,en,0,2026-01-12 00:06:00,HASH00100003
+M00005,C0005,E029,2026-01-14 05:00:00,We will circle back next week with a decision.,en,0,2026-01-14 05:10:00,HASH00100004
+M00006,C0006,E037,2026-01-16 11:00:00,Can you confirm the owner and close the open action?,en,0,2026-01-16 11:10:00,HASH00100005
+M00007,C0007,E004,2026-01-18 16:00:00,The dependency is still blocked by vendor access.,en,0,2026-01-18 16:01:00,HASH00100006
+M00008,C0008,E011,2026-01-20 13:00:00,I completed the draft and attached it for review.,en,0,2026-01-20 13:12:00,HASH00100007
+M00009,C0009,E018,2026-01-22 18:00:00,We need to reassign this because the current owner is on leave.,en,0,2026-01-22 18:04:00,HASH00100008
+M00010,C0010,E025,2026-01-23 11:00:00,Please escalate if there is no response within 48 hours.,en,0,2026-01-23 11:15:00,HASH00100009
+M00011,C0011,E033,2026-01-25 16:00:00,The customer expects an update by end of day.,en,0,2026-01-25 16:14:00,HASH00100010
+M00012,C0012,E040,2026-01-27 23:00:00,No action is required until finance validates the forecast.,en,1,2026-01-27 23:02:00,HASH00100011
+M00013,C0013,E007,2026-01-30 03:00:00,I will send the revised analysis by Friday.,en,0,2026-01-30 03:05:00,HASH00100012
+M00014,C0014,E014,2026-02-01 10:00:00,Engineering will complete the fix in the next sprint.,en,0,2026-02-01 10:04:00,HASH00100013
+M00015,C0015,E021,2026-02-03 06:00:00,Let's revisit this after the production release.,en,0,2026-02-03 06:12:00,HASH00100014
+M00016,C0016,E029,2026-02-05 13:00:00,I will get legal approval before Tuesday.,en,0,2026-02-05 13:04:00,HASH00100015
+M00017,C0017,E036,2026-02-07 18:00:00,We will circle back next week with a decision.,en,0,2026-02-07 18:13:00,HASH00100016
+M00018,C0018,E003,2026-02-09 23:00:00,Can you confirm the owner and close the open action?,en,0,2026-02-09 23:04:00,HASH00100017
+M00019,C0019,E010,2026-02-10 13:00:00,The dependency is still blocked by vendor access.,en,0,2026-02-10 13:02:00,HASH00100018
+M00020,C0020,E017,2026-02-12 21:00:00,I completed the draft and attached it for review.,en,0,2026-02-12 21:06:00,HASH00100019
+M00021,C0021,E025,2026-02-15 02:00:00,We need to reassign this because the current owner is on leave.,en,0,2026-02-15 02:07:00,HASH00100020
+M00022,C0022,E032,2026-02-17 00:00:00,Please escalate if there is no response within 48 hours.,en,0,2026-02-17 00:14:00,HASH00100021
+M00023,C0023,E039,2026-02-19 02:00:00,The customer expects an update by end of day.,en,1,2026-02-19 02:11:00,HASH00100022
+M00024,C0024,E006,2026-02-21 07:00:00,No action is required until finance validates the forecast.,en,0,2026-02-21 07:01:00,HASH00100023
+M00025,C0025,E013,2026-02-23 15:00:00,I will send the revised analysis by July 31.,en,0,2026-02-23 15:12:00,HASH00100024
+M00026,C0026,E021,2026-02-25 19:00:00,Engineering will complete the fix in the next sprint.,en,0,2026-02-25 19:13:00,HASH00100025
+M00027,C0027,E028,2026-02-27 22:00:00,Let's revisit this after the pilot release.,en,0,2026-02-27 22:04:00,HASH00100026
+M00028,C0028,E035,2026-02-28 16:00:00,I will get legal approval before Friday.,en,0,2026-02-28 16:04:00,HASH00100027
+M00029,C0029,E002,2026-03-02 16:00:00,We will circle back next week with a decision.,en,0,2026-03-02 16:03:00,HASH00100028
+M00030,C0030,E009,2026-03-04 21:00:00,Can you confirm the owner and close the open action?,en,0,2026-03-04 21:03:00,HASH00100029
+M00031,C0031,E017,2026-03-07 01:00:00,The dependency is still blocked by vendor access.,en,0,2026-03-07 01:08:00,HASH00100030
+M00032,C0032,E024,2026-03-09 05:00:00,I completed the draft and attached it for review.,en,0,2026-03-09 05:14:00,HASH00100031
+M00033,C0033,E031,2026-03-11 09:00:00,We need to reassign this because the current owner is on leave.,en,0,2026-03-11 09:08:00,HASH00100032
+M00034,C0034,E038,2026-03-13 14:00:00,Please escalate if there is no response within 48 hours.,en,1,2026-03-13 14:01:00,HASH00100033
+M00035,C0035,E005,2026-03-15 19:00:00,The customer expects an update by end of day.,en,0,2026-03-15 19:02:00,HASH00100034
+M00036,C0036,E013,2026-03-17 18:00:00,No action is required until finance validates the forecast.,en,0,2026-03-17 18:03:00,HASH00100035
+M00037,C0037,E020,2026-03-18 13:00:00,I will send the revised analysis by Wednesday.,en,0,2026-03-18 13:08:00,HASH00100036
+M00038,C0038,E027,2026-03-20 18:00:00,Engineering will complete the fix in the next sprint.,en,0,2026-03-20 18:04:00,HASH00100037
+M00039,C0039,E034,2026-03-22 23:00:00,Let's revisit this after the quarter-end release.,en,0,2026-03-22 23:15:00,HASH00100038
+M00040,C0040,E001,2026-03-25 01:00:00,I will get legal approval before July 31.,en,0,2026-03-25 01:03:00,HASH00100039
+M00041,C0041,E009,2026-03-27 09:00:00,We will circle back next week with a decision.,en,0,2026-03-27 09:01:00,HASH00100040
+M00042,C0042,E016,2026-03-29 14:00:00,Can you confirm the owner and close the open action?,en,0,2026-03-29 14:05:00,HASH00100041
+M00043,C0043,E023,2026-03-31 12:00:00,The dependency is still blocked by vendor access.,en,0,2026-03-31 12:05:00,HASH00100042
+M00044,C0044,E030,2026-04-02 17:00:00,I completed the draft and attached it for review.,en,0,2026-04-02 17:12:00,HASH00100043
+M00045,C0045,E037,2026-04-04 22:00:00,We need to reassign this because the current owner is on leave.,en,1,2026-04-04 22:03:00,HASH00100044
+M00046,C0046,E005,2026-04-05 13:00:00,Please escalate if there is no response within 48 hours.,en,0,2026-04-05 13:05:00,HASH00100045
+M00047,C0047,E012,2026-04-07 18:00:00,The customer expects an update by end of day.,en,0,2026-04-07 18:01:00,HASH00100046
+M00048,C0048,E019,2026-04-09 22:00:00,No action is required until finance validates the forecast.,en,0,2026-04-09 22:12:00,HASH00100047
+M00049,C0049,E026,2026-04-12 05:00:00,I will send the revised analysis by end of week.,en,0,2026-04-12 05:01:00,HASH00100048
+M00050,C0050,E033,2026-04-14 01:00:00,Engineering will complete the fix in the next sprint.,en,0,2026-04-14 01:10:00,HASH00100049
+M00051,C0051,E001,2026-04-16 09:00:00,Let's revisit this after the 4.2 release.,en,0,2026-04-16 09:09:00,HASH00100050
+M00052,C0052,E008,2026-04-18 12:00:00,I will get legal approval before Wednesday.,en,0,2026-04-18 12:01:00,HASH00100051
+M00053,C0053,E015,2026-04-20 16:00:00,We will circle back next week with a decision.,en,0,2026-04-20 16:14:00,HASH00100052
+M00054,C0054,E022,2026-04-22 22:00:00,Can you confirm the owner and close the open action?,en,0,2026-04-22 22:02:00,HASH00100053
+M00055,C0055,E029,2026-04-23 14:00:00,The dependency is still blocked by vendor access.,en,0,2026-04-23 14:11:00,HASH00100054
+M00056,C0056,E037,2026-04-25 20:00:00,I completed the draft and attached it for review.,en,1,2026-04-25 20:07:00,HASH00100055
+M00057,C0057,E004,2026-04-27 17:00:00,We need to reassign this because the current owner is on leave.,en,0,2026-04-27 17:15:00,HASH00100056
+M00058,C0058,E011,2026-04-29 23:00:00,Please escalate if there is no response within 48 hours.,en,0,2026-04-29 23:10:00,HASH00100057
+M00059,C0059,E018,2026-05-02 03:00:00,The customer expects an update by end of day.,en,0,2026-05-02 03:10:00,HASH00100058
+M00060,C0060,E025,2026-05-04 08:00:00,No action is required until finance validates the forecast.,en,0,2026-05-04 08:07:00,HASH00100059
+M00061,C0001,E033,2026-01-06 11:00:00,I will send the revised analysis by Tuesday.,en,0,2026-01-06 11:15:00,HASH00100060
+M00062,C0002,E040,2026-01-08 16:00:00,Engineering will complete the fix in the next sprint.,en,0,2026-01-08 16:04:00,HASH00100061
+M00063,C0003,E007,2026-01-10 21:00:00,Let's revisit this after the security release.,en,0,2026-01-10 21:04:00,HASH00100062
+M00064,C0004,E014,2026-01-11 14:00:00,I will get legal approval before end of week.,en,0,2026-01-11 14:07:00,HASH00100063
+M00065,C0005,E021,2026-01-13 18:00:00,We will circle back next week with a decision.,en,0,2026-01-13 18:11:00,HASH00100064
+M00066,C0006,E029,2026-01-16 00:00:00,Can you confirm the owner and close the open action?,en,0,2026-01-16 00:08:00,HASH00100065
+M00067,C0007,E036,2026-01-18 05:00:00,The dependency is still blocked by vendor access.,en,1,2026-01-18 05:15:00,HASH00100066
+M00068,C0008,E003,2026-01-20 01:00:00,I completed the draft and attached it for review.,en,0,2026-01-20 01:01:00,HASH00100067
+M00069,C0009,E010,2026-01-22 09:00:00,We need to reassign this because the current owner is on leave.,en,0,2026-01-22 09:10:00,HASH00100068
+M00070,C0010,E017,2026-01-24 11:00:00,Please escalate if there is no response within 48 hours.,en,0,2026-01-24 11:02:00,HASH00100069
+M00071,C0011,E025,2026-01-26 17:00:00,The customer expects an update by end of day.,en,0,2026-01-26 17:09:00,HASH00100070
+M00072,C0012,E032,2026-01-28 23:00:00,No action is required until finance validates the forecast.,en,0,2026-01-28 23:03:00,HASH00100071
+M00073,C0013,E039,2026-01-29 16:00:00,I will send the revised analysis by Friday.,en,0,2026-01-29 16:15:00,HASH00100072
+M00074,C0014,E006,2026-01-31 19:00:00,Engineering will complete the fix in the next sprint.,en,0,2026-01-31 19:15:00,HASH00100073
+M00075,C0015,E013,2026-02-02 18:00:00,Let's revisit this after the production release.,en,0,2026-02-02 18:06:00,HASH00100074
+M00076,C0016,E021,2026-02-05 00:00:00,I will get legal approval before Tuesday.,en,0,2026-02-05 00:03:00,HASH00100075
+M00077,C0017,E028,2026-02-07 06:00:00,We will circle back next week with a decision.,en,0,2026-02-07 06:14:00,HASH00100076
+M00078,C0018,E035,2026-02-09 10:00:00,Can you confirm the owner and close the open action?,en,1,2026-02-09 10:10:00,HASH00100077
+M00079,C0019,E002,2026-02-11 13:00:00,The dependency is still blocked by vendor access.,en,0,2026-02-11 13:11:00,HASH00100078
+M00080,C0020,E009,2026-02-13 20:00:00,I completed the draft and attached it for review.,en,0,2026-02-13 20:15:00,HASH00100079
+M00081,C0021,E017,2026-02-15 23:00:00,We need to reassign this because the current owner is on leave.,en,0,2026-02-15 23:15:00,HASH00100080
+M00082,C0022,E024,2026-02-16 10:00:00,Please escalate if there is no response within 48 hours.,en,0,2026-02-16 10:05:00,HASH00100081
+M00083,C0023,E031,2026-02-18 14:00:00,The customer expects an update by end of day.,en,0,2026-02-18 14:15:00,HASH00100082
+M00084,C0024,E038,2026-02-20 19:00:00,No action is required until finance validates the forecast.,en,0,2026-02-20 19:12:00,HASH00100083
+M00085,C0025,E005,2026-02-23 01:00:00,I will send the revised analysis by July 31.,en,0,2026-02-23 01:05:00,HASH00100084
+M00086,C0026,E013,2026-02-25 07:00:00,Engineering will complete the fix in the next sprint.,en,0,2026-02-25 07:10:00,HASH00100085
+M00087,C0027,E020,2026-02-27 11:00:00,Let's revisit this after the pilot release.,en,0,2026-02-27 11:12:00,HASH00100086
+M00088,C0028,E027,2026-03-01 17:00:00,I will get legal approval before Friday.,en,0,2026-03-01 17:04:00,HASH00100087
+M00089,C0029,E034,2026-03-03 15:00:00,We will circle back next week with a decision.,en,1,2026-03-03 15:09:00,HASH00100088
+M00090,C0030,E001,2026-03-05 21:00:00,Can you confirm the owner and close the open action?,en,0,2026-03-05 21:05:00,HASH00100089
+M00091,C0031,E009,2026-03-06 11:00:00,The dependency is still blocked by vendor access.,en,0,2026-03-06 11:02:00,HASH00100090
+M00092,C0032,E016,2026-03-08 19:00:00,I completed the draft and attached it for review.,en,0,2026-03-08 19:14:00,HASH00100091
+M00093,C0033,E023,2026-03-10 23:00:00,We need to reassign this because the current owner is on leave.,en,0,2026-03-10 23:01:00,HASH00100092
+M00094,C0034,E030,2026-03-13 02:00:00,Please escalate if there is no response within 48 hours.,en,0,2026-03-13 02:06:00,HASH00100093
+M00095,C0035,E037,2026-03-15 08:00:00,The customer expects an update by end of day.,en,0,2026-03-15 08:11:00,HASH00100094
+M00096,C0036,E005,2026-03-17 07:00:00,No action is required until finance validates the forecast.,en,0,2026-03-17 07:03:00,HASH00100095
+M00097,C0037,E012,2026-03-19 13:00:00,I will send the revised analysis by Wednesday.,en,0,2026-03-19 13:09:00,HASH00100096
+M00098,C0038,E019,2026-03-21 18:00:00,Engineering will complete the fix in the next sprint.,en,0,2026-03-21 18:09:00,HASH00100097
+M00099,C0039,E026,2026-03-23 20:00:00,Let's revisit this after the quarter-end release.,en,0,2026-03-23 20:02:00,HASH00100098
+M00100,C0040,E033,2026-03-24 13:00:00,I will get legal approval before July 31.,en,1,2026-03-24 13:15:00,HASH00100099
+M00101,C0041,E001,2026-03-26 19:00:00,We will circle back next week with a decision.,en,0,2026-03-26 19:09:00,HASH00100100
+M00102,C0042,E008,2026-03-28 23:00:00,Can you confirm the owner and close the open action?,en,0,2026-03-28 23:14:00,HASH00100101
+M00103,C0043,E015,2026-03-30 23:00:00,The dependency is still blocked by vendor access.,en,0,2026-03-30 23:10:00,HASH00100102
+M00104,C0044,E022,2026-04-02 03:00:00,I completed the draft and attached it for review.,en,0,2026-04-02 03:07:00,HASH00100103
+M00105,C0045,E029,2026-04-04 08:00:00,We need to reassign this because the current owner is on leave.,en,0,2026-04-04 08:01:00,HASH00100104
+M00106,C0046,E037,2026-04-06 14:00:00,Please escalate if there is no response within 48 hours.,en,0,2026-04-06 14:06:00,HASH00100105
+M00107,C0047,E004,2026-04-08 17:00:00,The customer expects an update by end of day.,en,0,2026-04-08 17:15:00,HASH00100106
+M00108,C0048,E011,2026-04-11 00:00:00,No action is required until finance validates the forecast.,en,0,2026-04-11 00:04:00,HASH00100107
+M00109,C0049,E018,2026-04-11 16:00:00,I will send the revised analysis by end of week.,en,0,2026-04-11 16:11:00,HASH00100108
+M00110,C0050,E025,2026-04-13 13:00:00,Engineering will complete the fix in the next sprint.,en,0,2026-04-13 13:06:00,HASH00100109
+M00111,C0051,E033,2026-04-15 21:00:00,Let's revisit this after the 4.2 release.,en,1,2026-04-15 21:10:00,HASH00100110
+M00112,C0052,E040,2026-04-18 00:00:00,I will get legal approval before Wednesday.,en,0,2026-04-18 00:15:00,HASH00100111
+M00113,C0053,E007,2026-04-20 05:00:00,We will circle back next week with a decision.,en,0,2026-04-20 05:14:00,HASH00100112
+M00114,C0054,E014,2026-04-22 10:00:00,Can you confirm the owner and close the open action?,en,0,2026-04-22 10:13:00,HASH00100113
+M00115,C0055,E021,2026-04-24 15:00:00,The dependency is still blocked by vendor access.,en,0,2026-04-24 15:15:00,HASH00100114
+M00116,C0056,E029,2026-04-26 22:00:00,I completed the draft and attached it for review.,en,0,2026-04-26 22:01:00,HASH00100115
+M00117,C0057,E036,2026-04-28 18:00:00,We need to reassign this because the current owner is on leave.,en,0,2026-04-28 18:12:00,HASH00100116
+M00118,C0058,E003,2026-04-29 12:00:00,Please escalate if there is no response within 48 hours.,en,0,2026-04-29 12:13:00,HASH00100117
+M00119,C0059,E010,2026-05-01 18:00:00,The customer expects an update by end of day.,en,0,2026-05-01 18:13:00,HASH00100118
+M00120,C0060,E017,2026-05-03 21:00:00,No action is required until finance validates the forecast.,en,0,2026-05-03 21:05:00,HASH00100119
+M00121,C0001,E025,2026-01-05 22:00:00,I will send the revised analysis by Tuesday.,en,0,2026-01-05 22:13:00,HASH00100120
+M00122,C0002,E032,2026-01-08 02:00:00,Engineering will complete the fix in the next sprint.,en,1,2026-01-08 02:07:00,HASH00100121
+M00123,C0003,E039,2026-01-10 07:00:00,Let's revisit this after the security release.,en,0,2026-01-10 07:14:00,HASH00100122
+M00124,C0004,E006,2026-01-12 15:00:00,I will get legal approval before end of week.,en,0,2026-01-12 15:04:00,HASH00100123
+M00125,C0005,E013,2026-01-14 18:00:00,We will circle back next week with a decision.,en,0,2026-01-14 18:14:00,HASH00100124
+M00126,C0006,E021,2026-01-17 01:00:00,Can you confirm the owner and close the open action?,en,0,2026-01-17 01:06:00,HASH00100125
+M00127,C0007,E028,2026-01-17 17:00:00,The dependency is still blocked by vendor access.,en,0,2026-01-17 17:14:00,HASH00100126
+M00128,C0008,E035,2026-01-19 14:00:00,I completed the draft and attached it for review.,en,0,2026-01-19 14:04:00,HASH00100127
+M00129,C0009,E002,2026-01-21 18:00:00,We need to reassign this because the current owner is on leave.,en,0,2026-01-21 18:11:00,HASH00100128
+M00130,C0010,E009,2026-01-24 00:00:00,Please escalate if there is no response within 48 hours.,en,0,2026-01-24 00:07:00,HASH00100129
+M00131,C0011,E017,2026-01-26 06:00:00,The customer expects an update by end of day.,en,0,2026-01-26 06:05:00,HASH00100130
+M00132,C0012,E024,2026-01-28 09:00:00,No action is required until finance validates the forecast.,en,0,2026-01-28 09:13:00,HASH00100131
+M00133,C0013,E031,2026-01-30 16:00:00,I will send the revised analysis by Friday.,en,1,2026-01-30 16:06:00,HASH00100132
+M00134,C0014,E038,2026-02-01 22:00:00,Engineering will complete the fix in the next sprint.,en,0,2026-02-01 22:11:00,HASH00100133
+M00135,C0015,E005,2026-02-03 19:00:00,Let's revisit this after the production release.,en,0,2026-02-03 19:01:00,HASH00100134
+M00136,C0016,E013,2026-02-04 10:00:00,I will get legal approval before Tuesday.,en,0,2026-02-04 10:15:00,HASH00100135
+M00137,C0017,E020,2026-02-06 17:00:00,We will circle back next week with a decision.,en,0,2026-02-06 17:03:00,HASH00100136
+M00138,C0018,E027,2026-02-08 22:00:00,Can you confirm the owner and close the open action?,en,0,2026-02-08 22:01:00,HASH00100137
+M00139,C0019,E034,2026-02-11 01:00:00,The dependency is still blocked by vendor access.,en,0,2026-02-11 01:10:00,HASH00100138
+M00140,C0020,E001,2026-02-13 09:00:00,I completed the draft and attached it for review.,en,0,2026-02-13 09:06:00,HASH00100139
+M00141,C0021,E009,2026-02-15 13:00:00,We need to reassign this because the current owner is on leave.,en,0,2026-02-15 13:07:00,HASH00100140
+M00142,C0022,E016,2026-02-17 09:00:00,Please escalate if there is no response within 48 hours.,en,0,2026-02-17 09:07:00,HASH00100141
+M00143,C0023,E023,2026-02-19 15:00:00,The customer expects an update by end of day.,en,0,2026-02-19 15:05:00,HASH00100142
+M00144,C0024,E030,2026-02-21 19:00:00,No action is required until finance validates the forecast.,en,1,2026-02-21 19:12:00,HASH00100143
+M00145,C0025,E037,2026-02-22 15:00:00,I will send the revised analysis by July 31.,en,0,2026-02-22 15:01:00,HASH00100144
+M00146,C0026,E005,2026-02-24 18:00:00,Engineering will complete the fix in the next sprint.,en,0,2026-02-24 18:06:00,HASH00100145
+M00147,C0027,E012,2026-02-27 01:00:00,Let's revisit this after the pilot release.,en,0,2026-02-27 01:02:00,HASH00100146
+M00148,C0028,E019,2026-03-01 05:00:00,I will get legal approval before Friday.,en,0,2026-03-01 05:10:00,HASH00100147
+M00149,C0029,E026,2026-03-03 03:00:00,We will circle back next week with a decision.,en,0,2026-03-03 03:11:00,HASH00100148
+M00150,C0030,E033,2026-03-05 06:00:00,Can you confirm the owner and close the open action?,en,0,2026-03-05 06:12:00,HASH00100149
+M00151,C0031,E001,2026-03-07 13:00:00,The dependency is still blocked by vendor access.,en,0,2026-03-07 13:09:00,HASH00100150
+M00152,C0032,E008,2026-03-09 18:00:00,I completed the draft and attached it for review.,en,0,2026-03-09 18:11:00,HASH00100151
+M00153,C0033,E015,2026-03-12 00:00:00,We need to reassign this because the current owner is on leave.,en,0,2026-03-12 00:06:00,HASH00100152
+M00154,C0034,E022,2026-03-12 17:00:00,Please escalate if there is no response within 48 hours.,en,0,2026-03-12 17:12:00,HASH00100153
+M00155,C0035,E029,2026-03-14 21:00:00,The customer expects an update by end of day.,en,1,2026-03-14 21:09:00,HASH00100154
+M00156,C0036,E037,2026-03-16 18:00:00,No action is required until finance validates the forecast.,en,0,2026-03-16 18:04:00,HASH00100155
+M00157,C0037,E004,2026-03-19 01:00:00,I will send the revised analysis by Wednesday.,en,0,2026-03-19 01:11:00,HASH00100156
+M00158,C0038,E011,2026-03-21 06:00:00,Engineering will complete the fix in the next sprint.,en,0,2026-03-21 06:11:00,HASH00100157
+M00159,C0039,E018,2026-03-23 09:00:00,Let's revisit this after the quarter-end release.,en,0,2026-03-23 09:10:00,HASH00100158
+M00160,C0040,E025,2026-03-25 15:00:00,I will get legal approval before July 31.,en,0,2026-03-25 15:07:00,HASH00100159
+M00161,C0041,E033,2026-03-27 18:00:00,We will circle back next week with a decision.,en,0,2026-03-27 18:05:00,HASH00100160
+M00162,C0042,E040,2026-03-30 01:00:00,Can you confirm the owner and close the open action?,en,0,2026-03-30 01:04:00,HASH00100161
+M00163,C0043,E007,2026-03-30 12:00:00,The dependency is still blocked by vendor access.,en,0,2026-03-30 12:13:00,HASH00100162
+M00164,C0044,E014,2026-04-01 16:00:00,I completed the draft and attached it for review.,en,0,2026-04-01 16:08:00,HASH00100163
+M00165,C0045,E021,2026-04-03 22:00:00,We need to reassign this because the current owner is on leave.,en,0,2026-04-03 22:08:00,HASH00100164
+M00166,C0046,E029,2026-04-06 01:00:00,Please escalate if there is no response within 48 hours.,en,1,2026-04-06 01:09:00,HASH00100165
+M00167,C0047,E036,2026-04-08 08:00:00,The customer expects an update by end of day.,en,0,2026-04-08 08:13:00,HASH00100166
+M00168,C0048,E003,2026-04-10 11:00:00,No action is required until finance validates the forecast.,en,0,2026-04-10 11:11:00,HASH00100167
+M00169,C0049,E010,2026-04-12 15:00:00,I will send the revised analysis by end of week.,en,0,2026-04-12 15:05:00,HASH00100168
+M00170,C0050,E017,2026-04-14 15:00:00,Engineering will complete the fix in the next sprint.,en,0,2026-04-14 15:02:00,HASH00100169
+M00171,C0051,E025,2026-04-16 19:00:00,Let's revisit this after the 4.2 release.,en,0,2026-04-16 19:11:00,HASH00100170
+M00172,C0052,E032,2026-04-17 13:00:00,I will get legal approval before Wednesday.,en,0,2026-04-17 13:04:00,HASH00100171
+M00173,C0053,E039,2026-04-19 17:00:00,We will circle back next week with a decision.,en,0,2026-04-19 17:03:00,HASH00100172
+M00174,C0054,E006,2026-04-21 21:00:00,Can you confirm the owner and close the open action?,en,0,2026-04-21 21:01:00,HASH00100173
+M00175,C0055,E013,2026-04-24 03:00:00,The dependency is still blocked by vendor access.,en,0,2026-04-24 03:08:00,HASH00100174
+M00176,C0056,E021,2026-04-26 07:00:00,I completed the draft and attached it for review.,en,0,2026-04-26 07:08:00,HASH00100175
+M00177,C0057,E028,2026-04-28 08:00:00,We need to reassign this because the current owner is on leave.,en,1,2026-04-28 08:15:00,HASH00100176
+M00178,C0058,E035,2026-04-30 11:00:00,Please escalate if there is no response within 48 hours.,en,0,2026-04-30 11:12:00,HASH00100177
+M00179,C0059,E002,2026-05-02 18:00:00,The customer expects an update by end of day.,en,0,2026-05-02 18:08:00,HASH00100178
+M00180,C0060,E009,2026-05-04 23:00:00,No action is required until finance validates the forecast.,en,0,2026-05-04 23:04:00,HASH00100179

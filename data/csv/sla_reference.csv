@@ -1,0 +1,5 @@
+priority,target_hours,warning_hours,escalation_level
+Low,168,120,1
+Medium,96,72,1
+High,48,24,2
+Critical,24,8,3

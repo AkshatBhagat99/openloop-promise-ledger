@@ -1,0 +1,61 @@
+conversation_id,source_id,external_thread_id,conversation_title,channel_or_mailbox,project_name,department_id,conversation_start_ts,last_activity_ts,conversation_status,sensitivity_label
+C0001,S001,SLA-20260001,Release readiness sync - Orion Release 4.2,#product-delivery,Orion Release 4.2,D001,2026-01-05 09:00:00,2026-01-05 18:00:00,Resolved,Confidential
+C0002,S002,MIC-20260002,Customer escalation review - Customer 360 Migration,#eng-release,Customer 360 Migration,D004,2026-01-07 10:00:00,2026-01-09 00:00:00,Open,Confidential
+C0003,S003,GMA-20260003,Contract approval follow-up - Q3 Pricing Refresh,Gmail,Q3 Pricing Refresh,D007,2026-01-09 11:00:00,2026-01-19 02:00:00,Resolved,Internal
+C0004,S004,ZOO-20260004,Weekly product triage - Atlas Data Quality,Zoom,Atlas Data Quality,D002,2026-01-11 12:00:00,2026-01-11 23:00:00,Resolved,Internal
+C0005,S005,JIR-20260005,Data pipeline incident - Nova Mobile Launch,Jira,Nova Mobile Launch,D005,2026-01-13 13:00:00,2026-01-19 01:00:00,Open,Internal
+C0006,S006,SAL-20260006,Quarterly planning discussion - Vendor Risk Remediation,Salesforce,Vendor Risk Remediation,D008,2026-01-15 14:00:00,2026-01-23 08:00:00,Resolved,Internal
+C0007,S007,SER-20260007,Implementation status check - Global Contract Renewal,ServiceNow,Global Contract Renewal,D003,2026-01-17 15:00:00,2026-01-20 02:00:00,Resolved,Internal
+C0008,S001,SLA-20260008,Pricing exception request - Support Deflection Program,#product-delivery,Support Deflection Program,D006,2026-01-19 09:00:00,2026-01-28 18:00:00,Open,Internal
+C0009,S002,MIC-20260009,Security remediation stand-up - Revenue Forecast Automation,#eng-release,Revenue Forecast Automation,D001,2026-01-21 10:00:00,2026-01-28 23:00:00,Resolved,Internal
+C0010,S003,GMA-20260010,Renewal risk review - Identity Access Cleanup,Gmail,Identity Access Cleanup,D004,2026-01-23 11:00:00,2026-01-25 21:00:00,Open,Restricted
+C0011,S004,ZOO-20260011,Executive action review - Employee Listening Initiative,Zoom,Employee Listening Initiative,D007,2026-01-25 12:00:00,2026-01-26 14:00:00,Open,Internal
+C0012,S005,JIR-20260012,Operational handoff - Cloud Cost Optimization,Jira,Cloud Cost Optimization,D002,2026-01-27 13:00:00,2026-01-31 08:00:00,Resolved,Internal
+C0013,S006,SAL-20260013,Release readiness sync - Orion Release 4.2,Salesforce,Orion Release 4.2,D005,2026-01-29 14:00:00,2026-02-06 11:00:00,Resolved,Internal
+C0014,S007,SER-20260014,Customer escalation review - Customer 360 Migration,ServiceNow,Customer 360 Migration,D008,2026-01-31 15:00:00,2026-02-10 14:00:00,Open,Internal
+C0015,S001,SLA-20260015,Contract approval follow-up - Q3 Pricing Refresh,#product-delivery,Q3 Pricing Refresh,D003,2026-02-02 09:00:00,2026-02-11 08:00:00,Resolved,Internal
+C0016,S002,MIC-20260016,Weekly product triage - Atlas Data Quality,#eng-release,Atlas Data Quality,D006,2026-02-04 10:00:00,2026-02-08 09:00:00,Dormant,Internal
+C0017,S003,GMA-20260017,Data pipeline incident - Nova Mobile Launch,Gmail,Nova Mobile Launch,D001,2026-02-06 11:00:00,2026-02-07 01:00:00,Resolved,Internal
+C0018,S004,ZOO-20260018,Quarterly planning discussion - Vendor Risk Remediation,Zoom,Vendor Risk Remediation,D004,2026-02-08 12:00:00,2026-02-09 11:00:00,Resolved,Confidential
+C0019,S005,JIR-20260019,Implementation status check - Global Contract Renewal,Jira,Global Contract Renewal,D007,2026-02-10 13:00:00,2026-02-14 17:00:00,Dormant,Internal
+C0020,S006,SAL-20260020,Pricing exception request - Support Deflection Program,Salesforce,Support Deflection Program,D002,2026-02-12 14:00:00,2026-02-16 14:00:00,Resolved,Internal
+C0021,S007,SER-20260021,Security remediation stand-up - Revenue Forecast Automation,ServiceNow,Revenue Forecast Automation,D005,2026-02-14 15:00:00,2026-02-21 21:00:00,Resolved,Internal
+C0022,S001,SLA-20260022,Renewal risk review - Identity Access Cleanup,#product-delivery,Identity Access Cleanup,D008,2026-02-16 09:00:00,2026-02-23 09:00:00,Dormant,Internal
+C0023,S002,MIC-20260023,Executive action review - Employee Listening Initiative,#eng-release,Employee Listening Initiative,D003,2026-02-18 10:00:00,2026-02-24 05:00:00,Resolved,Confidential
+C0024,S003,GMA-20260024,Operational handoff - Cloud Cost Optimization,Gmail,Cloud Cost Optimization,D006,2026-02-20 11:00:00,2026-02-24 15:00:00,Open,Internal
+C0025,S004,ZOO-20260025,Release readiness sync - Orion Release 4.2,Zoom,Orion Release 4.2,D001,2026-02-22 12:00:00,2026-03-01 23:00:00,Dormant,Internal
+C0026,S005,JIR-20260026,Customer escalation review - Customer 360 Migration,Jira,Customer 360 Migration,D004,2026-02-24 13:00:00,2026-03-05 15:00:00,Resolved,Confidential
+C0027,S006,SAL-20260027,Contract approval follow-up - Q3 Pricing Refresh,Salesforce,Q3 Pricing Refresh,D007,2026-02-26 14:00:00,2026-03-07 11:00:00,Open,Internal
+C0028,S007,SER-20260028,Weekly product triage - Atlas Data Quality,ServiceNow,Atlas Data Quality,D002,2026-02-28 15:00:00,2026-03-03 14:00:00,Open,Internal
+C0029,S001,SLA-20260029,Data pipeline incident - Nova Mobile Launch,#product-delivery,Nova Mobile Launch,D005,2026-03-02 09:00:00,2026-03-08 13:00:00,Dormant,Confidential
+C0030,S002,MIC-20260030,Quarterly planning discussion - Vendor Risk Remediation,#eng-release,Vendor Risk Remediation,D008,2026-03-04 10:00:00,2026-03-11 12:00:00,Open,Internal
+C0031,S003,GMA-20260031,Implementation status check - Global Contract Renewal,Gmail,Global Contract Renewal,D003,2026-03-06 11:00:00,2026-03-13 10:00:00,Dormant,Internal
+C0032,S004,ZOO-20260032,Pricing exception request - Support Deflection Program,Zoom,Support Deflection Program,D006,2026-03-08 12:00:00,2026-03-11 06:00:00,Open,Confidential
+C0033,S005,JIR-20260033,Security remediation stand-up - Revenue Forecast Automation,Jira,Revenue Forecast Automation,D001,2026-03-10 13:00:00,2026-03-18 15:00:00,Resolved,Internal
+C0034,S006,SAL-20260034,Renewal risk review - Identity Access Cleanup,Salesforce,Identity Access Cleanup,D004,2026-03-12 14:00:00,2026-03-16 23:00:00,Dormant,Internal
+C0035,S007,SER-20260035,Executive action review - Employee Listening Initiative,ServiceNow,Employee Listening Initiative,D007,2026-03-14 15:00:00,2026-03-16 05:00:00,Dormant,Internal
+C0036,S001,SLA-20260036,Operational handoff - Cloud Cost Optimization,#product-delivery,Cloud Cost Optimization,D002,2026-03-16 09:00:00,2026-03-17 00:00:00,Open,Confidential
+C0037,S002,MIC-20260037,Release readiness sync - Orion Release 4.2,#eng-release,Orion Release 4.2,D005,2026-03-18 10:00:00,2026-03-20 05:00:00,Open,Confidential
+C0038,S003,GMA-20260038,Customer escalation review - Customer 360 Migration,Gmail,Customer 360 Migration,D008,2026-03-20 11:00:00,2026-03-21 06:00:00,Resolved,Internal
+C0039,S004,ZOO-20260039,Contract approval follow-up - Q3 Pricing Refresh,Zoom,Q3 Pricing Refresh,D003,2026-03-22 12:00:00,2026-03-27 14:00:00,Resolved,Internal
+C0040,S005,JIR-20260040,Weekly product triage - Atlas Data Quality,Jira,Atlas Data Quality,D006,2026-03-24 13:00:00,2026-04-02 20:00:00,Dormant,Confidential
+C0041,S006,SAL-20260041,Data pipeline incident - Nova Mobile Launch,Salesforce,Nova Mobile Launch,D001,2026-03-26 14:00:00,2026-03-27 22:00:00,Resolved,Internal
+C0042,S007,SER-20260042,Quarterly planning discussion - Vendor Risk Remediation,ServiceNow,Vendor Risk Remediation,D004,2026-03-28 15:00:00,2026-03-31 14:00:00,Resolved,Confidential
+C0043,S001,SLA-20260043,Implementation status check - Global Contract Renewal,#product-delivery,Global Contract Renewal,D007,2026-03-30 09:00:00,2026-04-02 15:00:00,Open,Internal
+C0044,S002,MIC-20260044,Pricing exception request - Support Deflection Program,#eng-release,Support Deflection Program,D002,2026-04-01 10:00:00,2026-04-09 05:00:00,Resolved,Confidential
+C0045,S003,GMA-20260045,Security remediation stand-up - Revenue Forecast Automation,Gmail,Revenue Forecast Automation,D005,2026-04-03 11:00:00,2026-04-08 22:00:00,Open,Confidential
+C0046,S004,ZOO-20260046,Renewal risk review - Identity Access Cleanup,Zoom,Identity Access Cleanup,D008,2026-04-05 12:00:00,2026-04-06 18:00:00,Resolved,Confidential
+C0047,S005,JIR-20260047,Executive action review - Employee Listening Initiative,Jira,Employee Listening Initiative,D003,2026-04-07 13:00:00,2026-04-14 11:00:00,Open,Internal
+C0048,S006,SAL-20260048,Operational handoff - Cloud Cost Optimization,Salesforce,Cloud Cost Optimization,D006,2026-04-09 14:00:00,2026-04-13 16:00:00,Open,Confidential
+C0049,S007,SER-20260049,Release readiness sync - Orion Release 4.2,ServiceNow,Orion Release 4.2,D001,2026-04-11 15:00:00,2026-04-20 01:00:00,Resolved,Confidential
+C0050,S001,SLA-20260050,Customer escalation review - Customer 360 Migration,#product-delivery,Customer 360 Migration,D004,2026-04-13 09:00:00,2026-04-19 21:00:00,Dormant,Internal
+C0051,S002,MIC-20260051,Contract approval follow-up - Q3 Pricing Refresh,#eng-release,Q3 Pricing Refresh,D007,2026-04-15 10:00:00,2026-04-25 10:00:00,Open,Internal
+C0052,S003,GMA-20260052,Weekly product triage - Atlas Data Quality,Gmail,Atlas Data Quality,D002,2026-04-17 11:00:00,2026-04-26 04:00:00,Dormant,Internal
+C0053,S004,ZOO-20260053,Data pipeline incident - Nova Mobile Launch,Zoom,Nova Mobile Launch,D005,2026-04-19 12:00:00,2026-04-28 23:00:00,Open,Internal
+C0054,S005,JIR-20260054,Quarterly planning discussion - Vendor Risk Remediation,Jira,Vendor Risk Remediation,D008,2026-04-21 13:00:00,2026-04-29 11:00:00,Open,Internal
+C0055,S006,SAL-20260055,Implementation status check - Global Contract Renewal,Salesforce,Global Contract Renewal,D003,2026-04-23 14:00:00,2026-05-01 19:00:00,Open,Internal
+C0056,S007,SER-20260056,Pricing exception request - Support Deflection Program,ServiceNow,Support Deflection Program,D006,2026-04-25 15:00:00,2026-05-02 18:00:00,Open,Internal
+C0057,S001,SLA-20260057,Security remediation stand-up - Revenue Forecast Automation,#product-delivery,Revenue Forecast Automation,D001,2026-04-27 09:00:00,2026-04-30 07:00:00,Resolved,Internal
+C0058,S002,MIC-20260058,Renewal risk review - Identity Access Cleanup,#eng-release,Identity Access Cleanup,D004,2026-04-29 10:00:00,2026-05-01 19:00:00,Resolved,Confidential
+C0059,S003,GMA-20260059,Executive action review - Employee Listening Initiative,Gmail,Employee Listening Initiative,D007,2026-05-01 11:00:00,2026-05-08 22:00:00,Resolved,Internal
+C0060,S004,ZOO-20260060,Operational handoff - Cloud Cost Optimization,Zoom,Cloud Cost Optimization,D002,2026-05-03 12:00:00,2026-05-10 18:00:00,Open,Internal

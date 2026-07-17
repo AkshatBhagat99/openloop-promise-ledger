@@ -1,0 +1,9 @@
+department_id,department_name,business_unit,cost_center,sla_hours
+D001,Product,Digital Platforms,CC-110,72
+D002,Engineering,Technology,CC-120,96
+D003,Sales,Commercial,CC-130,48
+D004,Customer Success,Commercial,CC-140,48
+D005,Legal,Corporate,CC-150,120
+D006,Finance,Corporate,CC-160,72
+D007,Human Resources,People,CC-170,96
+D008,Operations,Enterprise Operations,CC-180,72
